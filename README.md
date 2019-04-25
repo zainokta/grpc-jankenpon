@@ -5,11 +5,11 @@ Jankenpon GRPC Client-Server With Golang
 How to use :
 1. ``` dep ensure ```
 
-#For Server
+# For Server
 1. ``` cd server ```
 2. ``` go run server.go ```
 
-#For Client
+# For Client
 1. ``` cd client ```
 2. ``` go run client.go ```
 
