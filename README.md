@@ -3,7 +3,6 @@
 Jankenpon GRPC Client-Server With Golang
 
 How to use :
-1. ``` dep ensure ```
 
 # For Server
 1. ``` cd server ```
