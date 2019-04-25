@@ -2,8 +2,6 @@
 
 Jankenpon GRPC Client-Server With Golang
 
-How to use :
-
 # For Server
 1. ``` cd server ```
 2. ``` go run server.go ```
